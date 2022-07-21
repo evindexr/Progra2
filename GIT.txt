@@ -1,0 +1,21 @@
+para inicializar git 
+
+-Usar git ini en la carpeta de proyecto
+
+para agregar usar el comando 
+git add .
+
+para guardar
+git commit -m "agregar comentario
+
+si se quiere ver el historial utilizar el comando
+git log
+
+para 
+git branch -M main
+
+agregar ruta
+git remote add origin https://github.com/evindexr/Progra2.git
+
+para migrar a la nube
+git push -u origin main
